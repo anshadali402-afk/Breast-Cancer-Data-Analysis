@@ -35,7 +35,7 @@ Examples of features include:
 * Worst Texture
 * Worst Perimeter
 * Project Workflow
-1. Import Libraries
+## 1. Import Libraries
 
 Essential libraries for data handling, preprocessing, model building, and evaluation are imported.
 
@@ -69,7 +69,8 @@ The following models are trained:
 * Random Forest Classifier
 * Support Vector Machine (SVM)
 * K-Nearest Neighbors (KNN)
-7. Model Evaluation
+* 
+## 7. Model Evaluation
 
 Each model is evaluated using:
 
